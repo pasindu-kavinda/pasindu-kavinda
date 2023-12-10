@@ -23,10 +23,33 @@ My name is Pasindu Kavinda and I'm a software engineer. I'm from Sri Lanka, You 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
+## &#x270d; Blog & Writing
+
+Besides coding, I also write cool stuff on [Medium](https://medium.com/@pasindu-kavinda) and [HashNode](https://pasindu-kavinda.hashnode.dev). Check out my articles!
+
+A sample of my recent articles:
+
+<!-- BLOG-POST-LIST:START -->
+- [IaC 101: A Quick Dive into Infrastructure as Code](https://medium.com/@pasindu-kavinda/iac-101-a-quick-dive-into-infrastructure-as-code-06a64f73f411)
+<!-- BLOG-POST-LIST:END -->
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/pasindu-kavinda-227/pasindu-kavinda-227">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindu-kavinda-227&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/pasindu-kavinda-227/pasindu-kavinda-227">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pasindu-kavinda-227&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+
+<a href="https://github.com/pasindu-kavinda-227/Terraform-IaC-Starter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pasindu-kavinda-227&repo=Terraform-IaC-Starter&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+[GitHub]: https://github.com/pasindu-kavinda-227
+[LinkedIn]: https://www.linkedin.com/in/pasindu-kavinda
+
 <!---
 pasindu-kavinda-227/pasindu-kavinda-227 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-[1]: https://github.com/pasindu-kavinda-227
-[LinkedIn]: https://www.linkedin.com/in/pasindu-kavinda
