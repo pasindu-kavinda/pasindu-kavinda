@@ -19,7 +19,7 @@
     <img
       width="256"
       align="right"
-      src="https://api.daily.dev/devcards/d890b75d28c74200b2ffb31a6b4fddf9.png?r=2bp"
+      src="https://github.com/pasindu-kavinda-227/pasindu-kavinda-227/blob/main/devcard.svg"
     />
   </a>
 </div>
