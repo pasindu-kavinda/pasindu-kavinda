@@ -1,7 +1,31 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/pasindu-kavinda-227/pasindu-kavinda-227/main/wave.gif" width="30px" height="30px" />
 
-My name is Pasindu Kavinda and I'm a software engineer. I'm from Sri Lanka, You can find me on [LinkedIn]
+<div align="left">
+  <a href="https://www.linkedin.com/in/pasindu-kavinda">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=for-the-badge&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
+  <a rel="me" href="https://me.dm/@pasinduKavinda">
+    <img
+      src="https://img.shields.io/static/v1?logo=mastodon&style=for-the-badge&color=0072b1&label=Mastodon&message=%E2%98%86"
+      alt="Mastodon"
+    />
+  </a>
+
+  <a href="https://app.daily.dev/pasindu" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://api.daily.dev/devcards/d890b75d28c74200b2ffb31a6b4fddf9.png?r=2bp"
+    />
+  </a>
+</div>
+
+
+My name is Pasindu Kavinda and I'm a software engineer from Sri Lanka.
 
 ## 🔧 Technologies & Tools
 ![Github](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -47,7 +71,6 @@ A sample of my recent articles:
 </a>
 
 [GitHub]: https://github.com/pasindu-kavinda-227
-[LinkedIn]: https://www.linkedin.com/in/pasindu-kavinda
 
 <!---
 pasindu-kavinda-227/pasindu-kavinda-227 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
