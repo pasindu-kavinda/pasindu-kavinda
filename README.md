@@ -15,7 +15,7 @@
     />
   </a>
 
-  <a href="https://api.daily.dev/get?r=pasindu" target="_blank">
+  <a href="https://dly.to/nx0mjczzJSV" target="_blank">
     <img
       width="256"
       align="right"
