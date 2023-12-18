@@ -25,7 +25,8 @@
 </div>
 
 
-My name is Pasindu Kavinda and I'm a software engineer from Sri Lanka.
+### I am Pasindu Kavinda
+- Software engineer from Sri Lanka.
 
 ## 🔧 Technologies & Tools
 ![Github](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
