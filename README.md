@@ -1,5 +1,5 @@
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/pasindu-kavinda-227/pasindu-kavinda-227/main/wave.gif" width="30px" height="30px" />
+# Hello, folks! <img src="https://raw.githubusercontent.com/pasindu-kavinda/pasindu-kavinda/main/wave.gif" width="30px" height="30px" />
 
 <div align="left">
   <a href="https://www.linkedin.com/in/pasindu-kavinda">
@@ -19,7 +19,7 @@
     <img
       width="256"
       align="right"
-      src="https://github.com/pasindu-kavinda-227/pasindu-kavinda-227/blob/main/devcard.svg"
+      src="https://github.com/pasindu-kavinda/pasindu-kavinda/blob/main/devcard.svg"
     />
   </a>
 </div>
@@ -60,18 +60,18 @@ A sample of my recent articles:
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/pasindu-kavinda-227/pasindu-kavinda-227">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindu-kavinda-227&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<a href="https://github.com/pasindu-kavinda/pasindu-kavinda">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindu-kavinda&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/pasindu-kavinda-227/pasindu-kavinda-227">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pasindu-kavinda-227&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+<a href="https://github.com/pasindu-kavinda/pasindu-kavinda">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pasindu-kavinda&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
 <a href="https://github.com/pasindu-kavinda-227/Terraform-IaC-Starter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pasindu-kavinda-227&repo=Terraform-IaC-Starter&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pasindu-kavinda&repo=Terraform-IaC-Starter&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-[GitHub]: https://github.com/pasindu-kavinda-227
+[GitHub]: https://github.com/pasindu-kavinda
 
 <!---
 pasindu-kavinda-227/pasindu-kavinda-227 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
