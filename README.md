@@ -16,7 +16,7 @@
   </a>
   <a rel="me" href="#">
     <img
-      src="https://komarev.com/ghpvc/?username=pasindu-kavida&style=for-the-badge"
+      src="https://komarev.com/ghpvc/?username=pasindu-kavida&style=for-the-badge&abbreviated=true"
       alt="views"
     />
   </a>
