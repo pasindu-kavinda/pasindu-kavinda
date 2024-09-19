@@ -14,6 +14,12 @@
       alt="Mastodon"
     />
   </a>
+  <a rel="me" href="#">
+    <img
+      src="https://komarev.com/ghpvc/?username=pasindu-kavida&style=for-the-badge"
+      alt="views"
+    />
+  </a>
 
   <a href="https://dly.to/nx0mjczzJSV" target="_blank">
     <img
