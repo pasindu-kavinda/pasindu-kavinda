@@ -76,8 +76,8 @@ Besides coding, I also write cool stuff on [Medium](https://medium.com/@pasindu-
 A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
-- [IaC 101: A Quick Dive into Infrastructure as Code](https://tinyurl.com/299xrw62)
 - [Contribute to open source for the first time in 7 steps](https://tinyurl.com/mr2ytvuz)
+- [IaC 101: A Quick Dive into Infrastructure as Code](https://tinyurl.com/299xrw62)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
