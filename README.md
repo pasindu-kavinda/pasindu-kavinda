@@ -81,6 +81,9 @@ A sample of my recent articles:
 - [IaC 101: A Quick Dive into Infrastructure as Code](https://go.pasindukavinda.dev/rgb2H4J)
 <!-- BLOG-POST-LIST:END -->
 
+## 💡 Discussions
+- [DevTalkSpace](https://github.com/DevTalkSpace)
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/pasindu-kavinda/pasindu-kavinda">
