@@ -72,7 +72,7 @@
 
 ## &#x270d; Blog & Writing
 
-Besides coding, I also write cool stuff on [Medium](https://medium.com/@pasindu-kavinda) and [HashNode](https://pasindu-kavinda.hashnode.dev). Check out my articles!
+Besides coding, I also write cool stuff on [Medium](https://blog.pasindukavinda.me) and [HashNode](https://pasindu-kavinda.hashnode.dev). Check out my articles!
 
 A sample of my recent articles:
 
