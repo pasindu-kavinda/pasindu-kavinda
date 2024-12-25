@@ -98,11 +98,11 @@ A sample of my recent articles:
 <br />
 
 <a href="https://github.com/pasindu-kavinda-227/Terraform-IaC-Starter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pasindu-kavinda&repo=Terraform-IaC-Starter&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats-vercel-rho-inky.vercel.app/api/pin/?username=pasindu-kavinda&repo=Terraform-IaC-Starter&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/pasindu-kavinda/awesome-resources">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pasindu-kavinda&repo=awesome-resources&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats-vercel-rho-inky.vercel.app/api/pin/?username=pasindu-kavinda&repo=awesome-resources&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 [GitHub]: https://github.com/pasindu-kavinda
