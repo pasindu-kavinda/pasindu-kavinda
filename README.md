@@ -105,12 +105,14 @@ A sample of my recent articles:
   <img align="center" src="https://github-readme-stats-vercel-rho-inky.vercel.app/api/pin/?username=pasindu-kavinda&repo=awesome-resources&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-[GitHub]: https://github.com/pasindu-kavinda
+<br />
+<br />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pasindu-kavinda&theme=xcode" />
 
-<br />
-<br />
+
 <a href="https://www.buymeacoffee.com/pasindukavinda" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
+[GitHub]: https://github.com/pasindu-kavinda
 <!---
 pasindu-kavinda-227/pasindu-kavinda-227 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
