@@ -25,7 +25,7 @@
     <img
       width="256"
       align="right"
-      src="https://github.com/pasindu-kavinda/pasindu-kavinda/blob/main/devcard.svg"
+      src="https://github.com/pasindu-kavinda/pasindu-kavinda/blob/main/png"
     />
   </a>
 </div>
