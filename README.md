@@ -80,6 +80,7 @@ Besides coding, I also write cool stuff on [Medium](https://blog.pasindukavinda.
 A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [From 20 Testers to Play Store in 14 Days: How I Published My App](https://go.pasindukavinda.dev/AC9NXV8)
 - [Contribute to open source for the first time in 7 steps](https://go.pasindukavinda.dev/wTD0rXY)
 - [IaC 101: A Quick Dive into Infrastructure as Code](https://go.pasindukavinda.dev/rgb2H4J)
 <!-- BLOG-POST-LIST:END -->
