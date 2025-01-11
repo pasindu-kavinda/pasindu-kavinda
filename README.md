@@ -88,6 +88,10 @@ A sample of my recent articles:
 ## 💡 Discussions
 - [DevTalkSpace](https://github.com/DevTalkSpace)
 
+## Roadmap.sh Projects
+- [Github User Activity](https://github.com/pasindu-kavinda/github-user-activity)
+- [Devops Projects](https://github.com/pasindu-kavinda/devops-projects)
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/pasindu-kavinda/pasindu-kavinda">
