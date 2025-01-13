@@ -92,6 +92,8 @@ A sample of my recent articles:
 - [DevTalkSpace](https://github.com/DevTalkSpace)
 
 ## Roadmap.sh Projects
+- [Backend Projects](https://github.com/pasindu-kavinda/backend-projects)
+- [Frontend Projects](https://github.com/pasindu-kavinda/frontend-projects)
 - [Github User Activity](https://github.com/pasindu-kavinda/github-user-activity)
 - [Devops Projects](https://github.com/pasindu-kavinda/devops-projects)
 
