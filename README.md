@@ -1,3 +1,6 @@
+<p align='center'>
+<img width='100%' src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Pasindu%20Kavinda&section=header&reversal=false&desc=passionate%20about%20embracing%20new%20technologies&fontAlign=55&descAlign=57&fontAlignY=39&fontSize=50&descSize=18&descAlignY=50&textBg=false&animation=twinkling" />
+</p>
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/pasindu-kavinda/pasindu-kavinda/main/wave.gif" width="30px" height="30px" />
 
