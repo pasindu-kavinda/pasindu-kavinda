@@ -91,7 +91,13 @@ A sample of my recent articles:
 ## 💡 Discussions
 - [DevTalkSpace](https://github.com/DevTalkSpace)
 
-## Roadmap.sh Projects
+## 🎯 Roadmap.sh Projects
+
+<a href="https://roadmap.sh">
+    <img align='right' src="https://roadmap.sh/card/wide/64c6aad78bda28d99147494e?variant=dark" alt="roadmap.sh card" />
+</a>
+<br />
+
 - [Backend Projects](https://github.com/pasindu-kavinda/backend-projects)
 - [Frontend Projects](https://github.com/pasindu-kavinda/frontend-projects)
 - [Github User Activity](https://github.com/pasindu-kavinda/github-user-activity)
