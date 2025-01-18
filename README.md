@@ -56,6 +56,7 @@
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=for-the-badge)
 ![GetX](https://img.shields.io/badge/GetX-8A2BE2?logo=getx&logoColor=fff&style=for-the-badge)
+![Swift Badge](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=fff&style=for-the-badge)
 
 ![ExpressJs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![NestJs](https://img.shields.io/badge/NestJs-ea2845?style=for-the-badge&logo=nestJS&logoColor=white)
