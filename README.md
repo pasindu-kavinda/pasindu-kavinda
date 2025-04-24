@@ -108,21 +108,21 @@ A sample of my recent articles:
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/pasindu-kavinda/pasindu-kavinda">
-  <img align="center" src="https://github-readme-stats-vercel-rho-inky.vercel.app/api/top-langs/?username=pasindu-kavinda&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindu-kavinda&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/pasindu-kavinda/pasindu-kavinda">
-  <img align="center" src="https://github-readme-stats-vercel-rho-inky.vercel.app/api?username=pasindu-kavinda&show_icons=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pasindu-kavinda&show_icons=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
 <br />
 <br />
 
 <a href="https://github.com/pasindu-kavinda-227/Terraform-IaC-Starter">
-  <img align="center" src="https://github-readme-stats-vercel-rho-inky.vercel.app/api/pin/?username=pasindu-kavinda&repo=Terraform-IaC-Starter&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pasindu-kavinda&repo=Terraform-IaC-Starter&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/pasindu-kavinda/awesome-resources">
-  <img align="center" src="https://github-readme-stats-vercel-rho-inky.vercel.app/api/pin/?username=pasindu-kavinda&repo=awesome-resources&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pasindu-kavinda&repo=awesome-resources&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <br />
