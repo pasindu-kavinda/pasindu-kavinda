@@ -84,9 +84,10 @@ Besides coding, I also write cool stuff on [Medium](https://blog.pasindukavinda.
 A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
-- [From 20 Testers to Play Store in 14 Days: How I Published My App](https://go.pasindukavinda.dev/AC9NXV8)
-- [Contribute to open source for the first time in 7 steps](https://go.pasindukavinda.dev/wTD0rXY)
-- [IaC 101: A Quick Dive into Infrastructure as Code](https://go.pasindukavinda.dev/rgb2H4J)
+- [Why TanStack Query Is a Game-Changer for Frontend Developers](https://blog.pasindukavinda.me/why-tanstack-query-is-a-game-changer-for-frontend-developers-dba2b94c4a34)
+- [From 20 Testers to Play Store in 14 Days: How I Published My App](https://blog.pasindukavinda.me/from-20-testers-to-play-store-in-14-days-how-i-published-my-app-4ad5f3b36efe)
+- [Contribute to open source for the first time in 7 steps](https://blog.pasindukavinda.me/contribute-to-open-source-for-the-first-time-in-7-steps-6d570dac56fe)
+- [IaC 101: A Quick Dive into Infrastructure as Code](https://blog.pasindukavinda.me/iac-101-a-quick-dive-into-infrastructure-as-code-06a64f73f411)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💡 Discussions
